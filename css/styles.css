@@ -10970,3 +10970,15 @@ section.resume-section .resume-section-content {
     padding-bottom: 5rem;
   }
 }
+
+.projectLinks {
+  color: #343a40;;
+  text-decoration: none;
+  display: block;
+  font-size: 1em;
+  margin-before: 1em;
+  margin-after: 1em;
+  margin-start: 0;
+  margin-end: 0;
+  font-weight: bold;
+}
